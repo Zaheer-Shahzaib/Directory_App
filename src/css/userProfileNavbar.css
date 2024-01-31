@@ -1,0 +1,11 @@
+.input-navbar {
+  width: 70%;
+  margin-left: 15rem;
+  display: flex;
+  justify-content: center;
+}
+@media screen and (max-width: 992px) {
+  .input-navbar {
+    display: none;
+  }
+}
